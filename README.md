@@ -1,6 +1,6 @@
-## 🏡WeAreBnB Project
+# 🏡WeAreBnB Project
 
-[데모 영상] https://youtu.be/J1Jll-h7MRE
+[시현 영상] https://youtu.be/J1Jll-h7MRE
 
 ### [팀명] : WeAreBnB (위아비엔비)
 
@@ -12,17 +12,18 @@
 
 - 개발기간 : 2021/11/15 ~ 2021/11/26
 - 개발 인원 : 프론트엔드 4명, 백엔드 3명
-- 프론트엔드 : 김여름, 박소윤, 석예주, 임기범
-- 백엔드 : 박민정, 이지은, 한화연
-- [프론트엔드 github 링크](https://github.com/wecode-bootcamp-korea/26-2nd-WeAreBnB-frontend.git)
-- [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/26-2nd-WeAreBnB-backend.git)
-  <br>
+- 담당 분야 : 백엔드 개발
+
+## Github Repository
+- [Front-End Repository](https://github.com/wecode-bootcamp-korea/26-2nd-WeAreBnB-frontend.git)
+
+- [Back-End Repository](https://github.com/wecode-bootcamp-korea/26-2nd-WeAreBnB-backend.git)
+
+<br>
 
 ## 적용 기술 및 역할
 
 ### 적용 기술
-
-> - Front-End : JavaScript, React.js, styled-component, React-router-dom.ver6, AWS(EC2)
 > - Back-End : Django, Python, MySQL, jwt, bcrypt, AWS(EC2, S3, RDS), Docker
 > - Common : Git, Github, Slack, Trello, dbdiagram, postman
 
@@ -42,6 +43,12 @@
 - S3를 사용하여 프로필 사진 업로드
 
 #### 한화연
+
+> 숙소 정보 조회 API
+- 숙소별 상세정보 조회 API
+> 예약 API
+- 숙소별 조건에 따른 예약 생성/수정/취소 API
+- 필터링 조건에 따른 예약 리스트 API
 
 ## ERD
 
