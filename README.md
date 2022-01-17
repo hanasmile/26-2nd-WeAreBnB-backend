@@ -60,7 +60,7 @@
 
 > **이지은** [에어비앤비 클론 프로젝트 후기](https://jeleedev.tistory.com/168)
 
-> **한화연**
+> **한화연** [WeAreBnB Project(2차 프로젝트) 회고](https://velog.io/write?id=6e8516ae-314c-40cd-bd96-590ff669fd09)
 
 ## Reference
 
